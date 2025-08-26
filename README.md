@@ -23,7 +23,7 @@
 
 ## 🚀 Projects
 
-### 🔹 [Cambay Gemmological Lab (CGL)](https://github.com/jaydiprpatel/cgl-app)
+### 🔹 [Cambay Gemmological Lab (CGL)](https://github.com/jaydiprpatel/cgl_neww)
 Certificate management app built with **Flutter + Firebase**  
 - Dynamic PDF certificate generation  
 - Multi-platform (Windows, Web)  
@@ -31,7 +31,7 @@ Certificate management app built with **Flutter + Firebase**
 
 ---
 
-### 🔹 [KeshKart](https://github.com/jaydiprpatel/keshkart-app)
+### 🔹 [KeshKart](https://github.com/jaydiprpatel/kesh-kart)
 Barber service & grooming app  
 - Firebase Authentication & Firestore  
 - Dual dashboards (Barber / Customer)  

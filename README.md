@@ -38,7 +38,7 @@
 
 ### 🌐 Connect
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/jaydiprpatel" target="_blank">
     <img src="assets/dp.png" width="80" style="border-radius:50%;" alt="DP"/>
   </a>
 </p>
